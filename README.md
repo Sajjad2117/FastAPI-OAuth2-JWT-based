@@ -7,7 +7,7 @@
 ##### Clone the repository:
 ```bash
 $ git clone https://github.com/Sajjad2117/FastAPI-OAuth2-JWT-based.git
-$ cd shop
+$ cd FastAPI-OAuth2-JWT-based
 ```
 ##### Create a virtualenv and activate it:
 * Windows:
